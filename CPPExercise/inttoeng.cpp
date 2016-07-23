@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int inttoeng()
+int Int_to_Eng()
 {
 	// Single digits 1-9
 	string digit[9] = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };

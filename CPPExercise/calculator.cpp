@@ -35,9 +35,9 @@ using namespace std;
 //}
 
 
-int calculator ()
+int Calculator ()
 {
-	char op = 'c';
+	char op;
 	int x, y;
 	int last_answer;
 	

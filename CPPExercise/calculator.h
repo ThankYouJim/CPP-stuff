@@ -11,6 +11,6 @@ int add(int, int);
 
 int subtract(int, int);
 
-int calculator();
+int Calculator();
 
 #endif

@@ -7,10 +7,10 @@ using std::ostream;
 using std::istream;
 using std::string;
 
-template <class Type>
-ostream &operator<<(ostream&, const Type&);
-
-template <class Type>
-istream &operator>>(istream&, Type&);
+//template <class Type>
+//ostream &operator<<(ostream&, const Type&);
+//
+//template <class Type>
+//istream &operator>>(istream&, Type&);
 
 #endif
